@@ -27,5 +27,9 @@
 <b>CRM:</b> Agenda Tarefas
 <br><br>
 <a href="http://agrobella.com/arquivos/demonstrativo/agenda_tarefas.mp4" target="_blank">http://agrobella.com/arquivos/demonstrativo/agenda_tarefas.mp4</a>
+<br><br> 
+<b>CRM:</b> Comissões
+<br><br>
+<a href="http://agrobella.com/arquivos/demonstrativo/comissoes.mp4" target="_blank">http://agrobella.com/arquivos/demonstrativo/comissoes.mp4</a>
 <br><br>  
 </font> 
