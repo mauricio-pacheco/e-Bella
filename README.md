@@ -16,4 +16,8 @@
 <br><br>
 <a href="http://agrobella.com/arquivos/demonstrativo/cadastro_clientes.mp4" target="_blank">http://agrobella.com/arquivos/demonstrativo/cadastro_clientes.mp4</a>
 <br><br> 
+<b>CRM:</b> Clientes Cadastrados
+<br><br>
+<a href="http://agrobella.com/arquivos/demonstrativo/clientes_cadastrados.mp4" target="_blank">http://agrobella.com/arquivos/demonstrativo/clientes_cadastrados.mp4</a>
+<br><br> 
 </font> 
