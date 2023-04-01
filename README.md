@@ -3,7 +3,7 @@
  
  Seguem alguns videos demonstrativos dos módulos do Sistema e-Bella
  
- OBS: Os valores nos videos descritos abaixo são representativos ('Somente para teste').
+ OBS: Os valores nos videos descritos abaixo são representativos ('Somente para demonstração').
  
  ##
 
