@@ -18,26 +18,26 @@
 <br><br> 
 <b>Compras:</b> Pedido de Compra
 <br><br>
-<a href=""https://casadaweb.net/arquivos/compra.mp4" target="_blank">https://casadaweb.net/arquivos/compra.mp4</a>
+<a href="https://casadaweb.net/arquivos/compra.mp4" target="_blank">https://casadaweb.net/arquivos/compra.mp4</a>
 <br><br>
 <b>Pedidos:</b> Video Demonstrativo Adminstrar Pedidos
 <br><br>
-<a href=""https://casadaweb.net/arquivos/pedidos.mp4" target="_blank">https://casadaweb.net/arquivos/pedidos.mp4</a>
+<a href="https://casadaweb.net/arquivos/pedidos.mp4" target="_blank">https://casadaweb.net/arquivos/pedidos.mp4</a>
 <br><br> 
 <b>CRM:</b> Cadastrar Clientes
 <br><br>
-<a href=""https://casadaweb.net/arquivos/cadastro_clientes.mp4" target="_blank">https://casadaweb.net/arquivos/cadastro_clientes.mp4</a>
+<a href="https://casadaweb.net/arquivos/cadastro_clientes.mp4" target="_blank">https://casadaweb.net/arquivos/cadastro_clientes.mp4</a>
 <br><br> 
 <b>CRM:</b> Clientes Cadastrados
 <br><br>
-<a href=""https://casadaweb.net/arquivos/clientes_cadastrados.mp4" target="_blank">https://casadaweb.net/arquivos/clientes_cadastrados.mp4</a>
+<a href="https://casadaweb.net/arquivos/clientes_cadastrados.mp4" target="_blank">https://casadaweb.net/arquivos/clientes_cadastrados.mp4</a>
 <br><br>
 <b>CRM:</b> Consultar Clientes
 <br><br>
-<a href=""https://casadaweb.net/arquivos/consultar_clientes.mp4" target="_blank">https://casadaweb.net/arquivos/consultar_clientes.mp4</a>
+<a href="https://casadaweb.net/arquivos/consultar_clientes.mp4" target="_blank">https://casadaweb.net/arquivos/consultar_clientes.mp4</a>
 <br><br> 
 <b>CRM:</b> Agenda Tarefas
 <br><br>
-<a href=""https://casadaweb.net/arquivos/agenda_tarefas.mp4" target="_blank">https://casadaweb.net/arquivos/agenda_tarefas.mp4</a>
+<a href="https://casadaweb.net/arquivos/agenda_tarefas.mp4" target="_blank">https://casadaweb.net/arquivos/agenda_tarefas.mp4</a>
 <br><br> 
 </font> 
