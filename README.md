@@ -12,15 +12,11 @@
  ##
 
 <font size="9px">
-<b>Usuários:</b> Administrar Usuários
-<br><br>
-<a href="https://casadaweb.net/arquivos/usuarios.mp4" target="_blank">https://casadaweb.net/arquivos/usuarios.mp4</a>
-<br><br> 
 <b>Compras:</b> Pedido de Compra
 <br><br>
 <a href="https://casadaweb.net/arquivos/compra.mp4" target="_blank">https://casadaweb.net/arquivos/compra.mp4</a>
 <br><br>
-<b>Pedidos:</b> Video Demonstrativo Adminstrar Pedidos
+<b>Pedidos:</b> Adminstrar Pedidos
 <br><br>
 <a href="https://casadaweb.net/arquivos/pedidos.mp4" target="_blank">https://casadaweb.net/arquivos/pedidos.mp4</a>
 <br><br> 
